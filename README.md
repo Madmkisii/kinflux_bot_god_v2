@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg)](#table-of-contents)
 <p align="center">
-    <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/08cef921377f9d8f08627.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## IMPORTANT
